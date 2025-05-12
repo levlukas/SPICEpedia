@@ -10,7 +10,15 @@ Během dopování jadernými reakcemi dochází k transmutaci (umělé přeměn�
 ## Si a jaderné procesy
 V přírodním křemíku jsou obsaženy celkem 3 izotopy:
 
-$$_{14}Si^{28} - 92,21\text{ \%, }_{14}Si^{29} - 4,70\text{ \%, }_{14}Si^{30} - 3,09\text{ \%}$$
+<center>
+
+|Izotop|Výskyt|
+| ---|---|
+|$_{14}Si^{28}$ | 92,21 % |
+|$_{14}Si^{29}$ | 4,70 %  |
+|$_{14}Si^{30}$ | 3,09 %  |
+
+</center>
 
 Existuje také radioaktivní isotop křemíku degradující na fosfor:
 
