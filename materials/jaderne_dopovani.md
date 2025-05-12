@@ -79,4 +79,4 @@ V silnoproudé elektrotechnice je nutná homogenita v dopování křemíkových 
 # Zdroje
 - [ ] dodělat
 
-KAZELLE JIŘÍ, *Název textu*
+KAZELLE JIŘÍ, *BPC-EMV2, Jaderné procesy \[přednáška], cit. 12. 5. 2025*
