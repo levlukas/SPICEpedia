@@ -1,7 +1,7 @@
 # Dopování polovodičů jadernými reakcemi
 
 ## Úvod
-Běžně se využívají metody **difúze** a **iontové implantace**, kdy se zabudovává cizí hmota do samotného polovodiče *(pozn. rozdíl v koncentrácích příměsi a Si je přesto v řádech $10^n$)*.
+Běžně se využívají metody **difúze** a **iontové implantace**, kdy se zabudovává cizí hmota do samotného polovodiče *(pozn. rozdíl v koncentrácích příměsi a Si je přesto v řádech* $10^n$*)*.
 
 - [ ] TODO: dopsat koncentrace
 
@@ -9,9 +9,11 @@ Během dopování jadernými reakcemi dochází k transmutaci (umělé přeměn�
 
 ## Si a jaderné procesy
 V přírodním křemíku jsou obsaženy celkem 3 izotopy:
+
 $$_{14}Si^{28} - 92,21\text{ \%, }_{14}Si^{29} - 4,70\text{ \%, }_{14}Si^{30} - 3,09\text{ \%}$$
 
 Existuje také radioaktivní isotop křemíku degradující na fosfor:
+
 $$_{14}^*Si^{31} \rightarrow |{\tau=10^4 s}| \rightarrow _{15}P^{31} + _{-1}e^0$$
 
 ## Realizace transmutace
@@ -51,7 +53,9 @@ Protože pro průchod záření látkou platí exponenciální pokles intenzity 
 $$I(x) = I_0 \exp{\left[ -\alpha(\lambda)\cdot x \right]}$$
 
 Pro koncentraci donorů v křemíku navíc platí následující vztah:
+
 $$N_D = \frac{1}{q\rho_1\mu}-\frac{1}{q\rho_0\mu_o} = p_i\cdot N_{Si}\cdot\sigma_n\cdot\varphi \cdot t,$$
+
 kde $\mu$ jsou pohyblivosti, $\rho$ jsou vnitřní odpory, $p_i$ je relativní zastoupení izotopu křemíku, $N_{Si}$ je koncentrace atomů křemíku, $\varphi$ je plošná hustota toku částic a $t$ je čas expozice.
 
 - [ ] TODO: vynést závislosti, popsat blíže dalšími modely, srovnání koncentrací s jinými metodami a funkce $\text{koncentrace}(x)$
