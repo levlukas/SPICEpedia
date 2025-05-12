@@ -24,11 +24,11 @@ Při bombardu helionem mohou vznikat následující reakce
 
 - [ ] TODO: nechat chata přepsat do latexu
 
-![helion.png](:/ed311846d3144cf5bce08430ae20bff2)
+![helion.png](jaderne_dopovani_srcs/helion.png)
 
 ## Fotojadernými reakcemi ($\gamma$)
 
-![gamma.png](:/70fdf84c5af24aac86cb7be7273eab74)
+![gamma.png](jaderne_dopovani_srcs/gamma.png)
 
 ### Bombard tepelnými neutrony
 - [ ] TODO: proč pomalé lepší?
@@ -41,7 +41,7 @@ Jako zdroj tepelných neutronů se používá jaderný reaktor:
 - [ ] TODO: obrázek konstrukce
 
 Rovnice bombardování: 
-![neutron.png](:/df835f03335a4d23b987eeb6529dff3e)
+![neutron.png](jaderne_dopovani_srcs/neutron.png)
 
 Při dlouhodobém ozařování za snížení vnitřního odporu pod $0,05\text{ }\Omega\text{m}$ existuje nebezpečí vzniku radioaktivního fosforu, jež degraduje na síru $_{16}S^{32}$.
 
