@@ -7,3 +7,5 @@ Tato sekce se věnuje materiálům a výrobním procesům z oblasti polovodičů
   - [dopování jadernými procesy](jaderne_dopovani.md)
 - Silikon karbid
   - [Vlastnosti a aplikace SiC](karbid_kremiku.md)
+- LED technologie
+  - [Cesta k modré LED](modra_LED.md)
